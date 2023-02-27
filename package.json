@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "uno": "unocss ./test.html -c unocss.config.ts -o test.css"
+  },
+  "devDependencies": {
+    "unocss": "^0.50.1",
+    "@unocss/cli": "^0.50.1"
+  }
+}
