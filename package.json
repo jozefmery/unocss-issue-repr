@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "uno": "unocss ./test.html -c unocss.config.ts -o test.css"
+    "uno": "unocss ./test.html -c unocss.config.ts -o test.css -w"
   },
   "devDependencies": {
     "unocss": "^0.50.1",
